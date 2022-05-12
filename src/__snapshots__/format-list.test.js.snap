@@ -1,0 +1,7 @@
+exports[`test can format a list 1`] = `
+"These are items in the Star Wars Names:
+ - Luke Skywalker
+ - Obi-Wan Kenobi
+ - Han Solo
+ - Chewbacca"
+`;
